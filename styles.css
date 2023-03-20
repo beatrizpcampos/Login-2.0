@@ -5,15 +5,15 @@
     background: #E5E5E5;
 }
 
-.img-yoga {
+.img-symbol {
     display: block;
-    margin: 195px auto 122px auto;
+    margin: 150px auto 120px auto;
 }
 
 input {
     width: 321px;
     background: #F7F7F7;
-    height: 46px;
+    height: 50px;
     box-shadow: -4px 4px 18px rgb(0 0 0 / 9%);
     border-radius: 10px;
     border: none;
@@ -22,9 +22,7 @@ input {
 }
 
 input::placeholder {
-    font-style: normal;
-    font-weight: normal;
-    font-size: 13px;
+    font-size: 15px;
     line-height: 15px;
     color: #969696;
     padding-left: 12px;
@@ -35,14 +33,10 @@ input::placeholder {
 }
 
 .forgot-password {
-    font-style: normal;
-    font-weight: normal;
-    font-size: 13px;
-    line-height: 15px;
+    font-size: 18px;
     color: #000000;
-    margin: 35px 30px 38px 0;
+    margin: 30px 830px 30px;
     display: block;
-    text-align: right;
     text-decoration: none;
 }
 
@@ -52,24 +46,20 @@ button {
     border-radius: 10px;
     display: block;
     margin: 0 auto;
-    width: 133px;
-    height: 46px;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 15px;
+    width: 150px;
+    height: 50px;
+    font-size: 18px;
     line-height: 18px;
     color: #FFFFFF;
 }
 
 .link-signup {
     display: block;
-    margin-top: 21px;
-    margin-bottom: 62px;
+    margin-top: 25px;
+    margin-bottom: 40px;
     text-align: center;
     text-decoration: none;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 15px;
+    font-size: 18px;
     line-height: 18px;
     color: #969696;
 }
@@ -79,7 +69,6 @@ strong {
 }
 
 .or-paragrafh {
-    font-style: normal;
     font-weight: 900;
     font-size: 18px;
     line-height: 21px;
@@ -87,12 +76,14 @@ strong {
     color: #000000;
 }
 
-.div-img {
-    text-align: center;
-    margin: 18px auto 80px auto;
+.img-link {
+    width: 100px;
+    height: 100px;
+    text-decoration: none;
+margin-left: 20px;
+margin-top: 20px;
 }
 
-.img-dots {
-    text-decoration: none;
-    margin: 0 16px;
+#google {
+    margin-left: 730px;
 }
